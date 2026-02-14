@@ -1,7 +1,7 @@
 # Study Repository
 
 This repository contains my structured daily learning progress in **Python** and **AI & ML**.  
-Each folder is organized day-wise with concepts covered, short theory explanations, and practical implementations.
+Each folder is organized day-wise with concepts covered, theory, and practical implementations.
 
 
 
